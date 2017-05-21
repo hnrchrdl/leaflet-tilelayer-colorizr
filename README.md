@@ -1,4 +1,4 @@
-# L.TileLayer.PixelFilter
+# L.TileLayer.Colorizr
 
 A Leaflet TileLayer extension which will modify RGB codes in the tiles, based on a custom function.
 
