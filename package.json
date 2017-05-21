@@ -3,18 +3,11 @@
   "version": "1.0.0",
   "description": "A Leaflet TileLayer with colors",
   "main": "leaflet-tilelayer-colorizr.js",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
   "keywords": [
     "leaflet"
   ],
   "author": "hnrchrdl",
   "license": "MIT",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
   "peerDependencies": {
     "leaflet": "^1.0.0"
